@@ -1,4 +1,4 @@
- [! [MasterHead](https://spacestationapes.com/seo/seo-content-writing-samples/attachment/hilarious-kermit-the-frog-gif-downsized_large)
+ [! [MasterHead](https://mltzp09tjnsg.i.optimole.com/9ZW7nrM-sttZiCTm/w:auto/h:auto/q:auto/https://spacestationapes.com/wp-content/uploads/2018/04/Hilarious-Kermit-The-Frog-GIF-downsized_large.gif)
 
 <h1 align="center">Hi 👋, I'm Elif Buse Öztürk</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
