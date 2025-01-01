@@ -1,4 +1,4 @@
-[![Kermit Typing](https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif)](https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif)
+[![Kermit Typing](https://media.tenor.com/YJLC5eDK4-0AAAAC/kermit-typing.gif)](https://media.tenor.com/YJLC5eDK4-0AAAAC/kermit-typing.gif)
 
 <h1 align="center">Hi 👋, I'm Elif Buse Öztürk</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
