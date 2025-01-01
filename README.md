@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elofoloji8&show_icons=true&theme=midnight-purple" alt="elofoloji8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elofoloji8&show_icons=true&theme=radical" alt="elofoloji8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elofoloji8&show_icons=true&theme=panda" alt="elofoloji8" /></p>
