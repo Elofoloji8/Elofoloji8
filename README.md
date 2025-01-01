@@ -1,4 +1,4 @@
- [! [MasterHead]([https://mltzp09tjnsg.i.optimole.com/9ZW7nrM-sttZiCTm/w:auto/h:auto/q:auto/https://spacestationapes.com/wp-content/uploads/2018/04/Hilarious-Kermit-The-Frog-GIF-downsized_large.gif](https://tenor.com/tr/view/kermit-the-frog-kermit-typing-kermit-typing-on-typewriter-kermit-on-typewriter-typing-fast-gif-6766768323810342682))
+ [! [MasterHead]((https://tenor.com/tr/view/kermit-the-frog-kermit-typing-kermit-typing-on-typewriter-kermit-on-typewriter-typing-fast-gif-6766768323810342682))
 
 <h1 align="center">Hi 👋, I'm Elif Buse Öztürk</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
