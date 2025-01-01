@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/tr/view/kermit-the-frog-kermit-typing-kermit-typing-on-typewriter-kermit-on-typewriter-typing-fast-gif-6766768323810342682)
+![MasterHead](https://media.tenor.com/images/abcd1234efgh5678abcd1234efgh5678/tenor.gif)
 
 <h1 align="center">Hi 👋, I'm Elif Buse Öztürk</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
