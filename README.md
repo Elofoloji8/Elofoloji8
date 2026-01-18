@@ -60,9 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elofoloji8&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&cache_seconds=86400" height="150"/>
   <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Elofoloji8&theme=dracula&no-frame=true&column=4&margin-w=10" height="150"/>
 </div>
 
 ###
