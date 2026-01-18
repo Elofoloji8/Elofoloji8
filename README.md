@@ -60,8 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=elofoloji8&theme=dracula&no-frame=true&column=4&margin-w=10" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Elofoloji8&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Elofoloji8&theme=dracula&no-frame=true&column=4&margin-w=10" height="150"/>
 </div>
 
 ###
