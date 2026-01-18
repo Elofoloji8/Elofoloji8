@@ -5,29 +5,48 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <!-- Mobile & Core -->
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android logo" />
+  <img src="https://skillicons.dev/icons?i=android" height="60" alt="android" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+
+  <!-- Backend / Cloud -->
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+
+  <!-- Frontend / Tools -->
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
+  <img width="12" />
+
+  <!-- Dev / Design -->
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/elif-buse-ozturk">
+  <a href="https://www.linkedin.com/in/elifbuseöztürk">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://twitter.com/elofoloji8">
@@ -41,8 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=elofoloji8&theme=dracula&column=4&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elofoloji8&theme=dracula&column=4&margin-w=8" height="150" />
 </div>
 
 ###
