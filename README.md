@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">I'm Elif Buse Ozturk — Android Developer from Türkiye 🇹🇷</h3>
+<h3 align="center">I'm Elif — Android Developer from Türkiye 🇹🇷</h3>
 
 ###
 
@@ -8,7 +8,7 @@
   <!-- Mobile & Core -->
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=android" height="60" alt="android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java" />
   <img width="12" />
@@ -60,8 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=elofoloji8&theme=dracula&column=4&margin-w=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elofoloji8&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=elofoloji8&theme=dracula&no-frame=true&margin-w=8" height="150"/>
 </div>
 
 ###
