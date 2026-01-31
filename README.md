@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elofoloji8&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Elofoloji8&theme=dracula" height="150"/>
 </div>
 
 ###
